@@ -20,7 +20,7 @@
 
 | No| Name| Source| Date| Solution|
 |--|--|--|--|--|
-|1647| µµΩ√ ∫–«“ ∞Ë»π| | 2025-01-22 | [1647](./1600/1647/README.md)|
+|1647| ÎèÑÏãú Î∂ÑÌï† Í≥ÑÌöç| | 2025-01-22 | [1647](./1600/1647/README.md)|
 | 3276| ICONS| Croatian Highschool Competitions in Informatics 2001 Regional Competition - Juniors| 2025-01-23| [link](./3200/3276/README.md)|
 
 ## V4900
