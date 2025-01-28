@@ -9,6 +9,7 @@
 | No| Name| Source| Date| Solution|
 |--|--|--|--|--|
 |1000|A+B| | 2025-01-19 | [link](./1000/1000/README.md)|
+|1001|A-B| | 2025-01-28 | [link](./1000/1001/README.md)|
 
 ## V1300
 
