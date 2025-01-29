@@ -27,7 +27,7 @@
 ## V3200
 | No| Name| Source| Date| Solution|
 |--|--|--|--|--|
-| 3276| ICONS| Croatian Highschool Competitions in Informatics<br> 2001 Regional Competition - Juniors| 2025-01-23| [link](./3200/3276/README.md)|
+| 3276| ICONS| Croatian Highschool Competitions in Informatics 2001 Regional Competition <br> Juniors| 2025-01-23| [link](./3200/3276/README.md)|
 
 ## V4900
 
@@ -53,5 +53,5 @@
 
 | No| Name| Source| Date| Solution|
 |--|--|--|--|--|
-| 29881| Account Names| Estonian Informatics Olympiad<br>2020-21 Open Competition| 2025-01-30| [link](./29800/29881/README.md)|
+| 29881| Account Names| Estonian Informatics Olympiad 2020-21 Open Competition| 2025-01-30| [link](./29800/29881/README.md)|
 
