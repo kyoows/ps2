@@ -49,9 +49,9 @@
 | 21919| 소수 최소 공배수| | 2025-01-29| [link](./21900/21919/README.md)|
 
 
-## V28800
+## V29800
 
 | No| Name| Source| Date| Solution|
 |--|--|--|--|--|
-| 29881| Account Names| Estonian Informatics Olympiad<br>2020-21 Open Competition| 2025-01-30| [link](./29800/28881/README.md)|
+| 29881| Account Names| Estonian Informatics Olympiad<br>2020-21 Open Competition| 2025-01-30| [link](./29800/29881/README.md)|
 
