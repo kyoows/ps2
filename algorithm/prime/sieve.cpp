@@ -1,7 +1,7 @@
 /*
  * Sieve of Eratosthenes
  *
- * Testing: BOJ-21919 소수 최소 공배수
+ * test: boj-21919 소수 최소 공배수
  */
 #include <cstdio>
 #include <cstring>
