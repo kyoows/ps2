@@ -1,2 +1,3 @@
 * [MST](./MST/README.md)
 * [Prime Number](./prime/README.md)
+* [Modular Arithmetic](./modular/README.md)
