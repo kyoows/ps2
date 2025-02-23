@@ -1,6 +1,6 @@
 /*
 6495 - Ballot evaluation
-5472473 helloneo 6495 ¸Â¾Ò½À´Ï´Ù!! 2028 KB 72 MS C++14 / ¼öÁ¤ 2461 B
+5472473 helloneo 6495 ë§žì•˜ìŠµë‹ˆë‹¤!! 2028 KB 72 MS C++14 / ìˆ˜ì • 2461 B
 2017-03-26
 */
 #include <iostream>
