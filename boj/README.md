@@ -4,7 +4,7 @@
 
 # Solved
 
-* [V1000](./1000/README.md) (10 solved)
+* [V1000](./1000/README.md) (11 solved)
 * [V1100](./1100/README.md) (3 solved)
 * [V1200](./1200/README.md) (1 solved)
 * [V1300](./1300/README.md) (1 solved)
