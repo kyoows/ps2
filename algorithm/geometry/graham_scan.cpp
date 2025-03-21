@@ -1,3 +1,8 @@
+/*
+ * Graham Scan (Convex Hull)
+ *
+ * field test: boj-1708 볼록 껍질
+ */
 #include <iostream>
 #include <cstdio>
 #include <algorithm>
