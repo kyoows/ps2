@@ -11,6 +11,7 @@
 * [V1400](./1300/README.md) (1 solved)
 * [V1600](./1600/README.md) (1 solved)
 * [V2700](./2700/README.md) (3 solved)
+* [V3000](./3000/README.md) (0 solved)
 * [V3200](./3200/README.md) (1 solved)
 * [V4900](./4900/README.md) (1 solved)
 * [V6400](./6400/README.md) (1 solved)
