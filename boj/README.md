@@ -27,6 +27,7 @@
 * [V21900](./21900/README.md) (1 solved)
 * [V25300](./25300/README.md) (1 solved)
 * [V25600](./25600/README.md) (1 solved)
+* [V27300](./27300/README.md) (1 solved)
 * [V29800](./29800/README.md) (1 solved)
 * [V30700](./30700/README.md) (1 solved)
 * [V31800](./31800/README.md) (0 solved)
