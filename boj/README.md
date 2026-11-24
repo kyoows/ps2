@@ -24,6 +24,7 @@
 * [V17000](./17000/README.md) (1 solved)
 * [V18000](./18000/README.md) (1 solved)
 * [V18800](./18800/README.md) (1 solved)
+* [V20200](./20200/README.md) (1 solved)
 * [V21900](./21900/README.md) (1 solved)
 * [V25300](./25300/README.md) (1 solved)
 * [V25600](./25600/README.md) (1 solved)
