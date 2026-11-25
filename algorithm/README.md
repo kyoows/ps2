@@ -1,3 +1,4 @@
+* [Number Theory](./number/README.md)
 * [Graph](./graph/README.md)
 * [Prime Number](./prime/README.md)
 * [Modular Arithmetic](./modular/README.md)
