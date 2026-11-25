@@ -1,6 +1,5 @@
 * [Number Theory](./number/README.md)
 * [Graph](./graph/README.md)
-* [Prime Number](./prime/README.md)
 * [Modular Arithmetic](./modular/README.md)
 * [Computational Geometroy](./geometry/README.md)
 * [combination.c](./combination.c)
