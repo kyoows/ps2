@@ -5,7 +5,7 @@
 # Solved
 
 * [1000](./1000/README.md) (11 solved)
-* [1100](./1100/README.md) (6 solved)
+* [1100](./1100/README.md) (7 solved)
 * [1200](./1200/README.md) (2 solved)
 * [1300](./1300/README.md) (1 solved)
 * [1400](./1300/README.md) (1 solved)
