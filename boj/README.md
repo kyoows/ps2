@@ -14,6 +14,7 @@
 * [2700](./2700/README.md) (3 solved)
 * [3000](./3000/README.md) (0 solved)
 * [3200](./3200/README.md) (1 solved)
+* [3600](./3600/README.md) (1 solved)
 * [4900](./4900/README.md) (2 solved)
 * [5000](./5000/README.md) (0 solved)
 * [6400](./6400/README.md) (1 solved)
